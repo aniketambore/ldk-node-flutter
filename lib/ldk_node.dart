@@ -6,9 +6,6 @@ export './src/generated/api/types.dart'
     hide
         Event_ChannelClosed,
         Event_ChannelReady,
-        Event_PaymentFailed,
-        Event_PaymentReceived,
-        Event_PaymentSuccessful,
         Event_ChannelPending,
         MaxDustHTLCExposure,
         SocketAddress_Hostname,
